@@ -8,26 +8,33 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\": {}
+    "C:\\Users\\Mostofa kamal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#project\\CSharpBasicAndWeb\\ClasslibTest\\ClasslibTest.csproj",
+      "projectUniqueName": "D:\\BasicC#\\cshapr-basic\\ClasslibTest\\ClasslibTest.csproj",
       "projectName": "ClasslibTest",
-      "projectPath": "D:\\c#project\\CSharpBasicAndWeb\\ClasslibTest\\ClasslibTest.csproj",
-      "packagesPath": "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\",
-      "outputPath": "D:\\c#project\\CSharpBasicAndWeb\\ClasslibTest\\obj\\",
+      "projectPath": "D:\\BasicC#\\cshapr-basic\\ClasslibTest\\ClasslibTest.csproj",
+      "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
+      "outputPath": "D:\\BasicC#\\cshapr-basic\\ClasslibTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MOSTOFA KAMAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mostofa kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {

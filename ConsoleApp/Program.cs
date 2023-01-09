@@ -78,3 +78,19 @@ keyValuePairs.Add(6, "six");
 //}
 
 
+
+
+int? nullVal = null;
+
+if(nullVal is not null)
+{
+    Console.WriteLine($"value is not null {nullVal}");
+}else
+{
+    Console.WriteLine($"Value is null {nullVal}");
+}
+
+string autoLenght = null;
+int isNotNullThenResult = autoLenght?.Length ?? 5;
+
+Console.WriteLine(isNotNullThenResult);

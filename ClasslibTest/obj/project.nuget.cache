@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZ6vhNJxS5nfx1YmNTvjeRiMwW6u/w9Zj8Mv3gjGb8AKkBpCkpZ/aYI31cLcmU586jUrYJMRj7kah9tTm6Jxtw==",
+  "dgSpecHash": "EUnRYAgvyCkWYHNkDCK7ZPJwVy5/bIneleD45qW+X5to1YuqZwhBvHtnbkcifDCLC7a9SM43U5V3hmT8wf622A==",
   "success": true,
-  "projectFilePath": "D:\\c#project\\CSharpBasicAndWeb\\ClasslibTest\\ClasslibTest.csproj",
+  "projectFilePath": "D:\\BasicC#\\cshapr-basic\\ClasslibTest\\ClasslibTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
