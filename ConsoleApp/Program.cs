@@ -58,7 +58,23 @@ table.Add(key: 7, value: "pass vai");
 
 ICollection hCol = table.Keys;
 
-foreach(int h in hCol)
-{
-    Console.WriteLine(h + " " + table[h]);
-}
+//foreach(int h in hCol)
+//{
+//    Console.WriteLine(h + " " + table[h]);
+//}
+
+
+Dictionary<int, string> keyValuePairs= new Dictionary<int, string>();
+keyValuePairs.Add(1, "one");
+keyValuePairs.Add(2, "two");
+keyValuePairs.Add(3, "three");
+keyValuePairs.Add(4, "four");
+keyValuePairs.Add(5, "five");
+keyValuePairs.Add(6, "six");
+//foreach(var intkey in keyValuePairs)
+//{
+//    Console.WriteLine(intkey.Value, intkey.Key);
+
+//}
+
+
