@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{2F5A8A04-1F5C-434B-BCE0-5F12F6DFADA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{2F5A8A04-1F5C-434B-BCE0-5F12F6DFADA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasslibTest", "ClasslibTest\ClasslibTest.csproj", "{CFFE4F13-8B30-48AF-92C5-C998E972798D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasslibTest", "ClasslibTest\ClasslibTest.csproj", "{CFFE4F13-8B30-48AF-92C5-C998E972798D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetBasicTypes", "DotnetBasicTypes\DotnetBasicTypes.csproj", "{93CC0AAA-4A10-4F8A-A413-640C8861F54B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CFFE4F13-8B30-48AF-92C5-C998E972798D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFFE4F13-8B30-48AF-92C5-C998E972798D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFFE4F13-8B30-48AF-92C5-C998E972798D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CC0AAA-4A10-4F8A-A413-640C8861F54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CC0AAA-4A10-4F8A-A413-640C8861F54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CC0AAA-4A10-4F8A-A413-640C8861F54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CC0AAA-4A10-4F8A-A413-640C8861F54B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

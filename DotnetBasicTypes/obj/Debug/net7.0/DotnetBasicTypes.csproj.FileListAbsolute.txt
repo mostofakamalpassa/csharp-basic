@@ -1,0 +1,15 @@
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.csproj.AssemblyReference.cache
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.AssemblyInfoInputs.cache
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.AssemblyInfo.cs
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.csproj.CoreCompileInputs.cache
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\bin\Debug\net7.0\DotnetBasicTypes.exe
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\bin\Debug\net7.0\DotnetBasicTypes.deps.json
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\bin\Debug\net7.0\DotnetBasicTypes.runtimeconfig.json
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\bin\Debug\net7.0\DotnetBasicTypes.dll
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\bin\Debug\net7.0\DotnetBasicTypes.pdb
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.dll
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\refint\DotnetBasicTypes.dll
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.pdb
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\DotnetBasicTypes.genruntimeconfig.cache
+D:\BasicC#\cshapr-basic\DotnetBasicTypes\obj\Debug\net7.0\ref\DotnetBasicTypes.dll
