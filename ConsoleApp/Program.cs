@@ -1,5 +1,6 @@
 ﻿using ClasslibTest.Model;
 using ClasslibTest.Shared;
+using System.Collections;
 
 Person blob = new Person();
 
@@ -44,5 +45,20 @@ ImmutableVehicle car = new()
 
 ImmutableVehicle car2 = car with { Color = "Green Color " };
 
-Console.WriteLine(car2.Color);
-Console.WriteLine(car2.Wheels);
+//Console.WriteLine(car2.Color);
+//Console.WriteLine(car2.Wheels);
+
+Hashtable table = new Hashtable();
+table.Add(key: 2, value: "jamal");
+table.Add(key: 3, value: "Toamal");
+table.Add(key: 4, value: "damal");
+table.Add(key: 5, value: "kamal");
+table.Add(key: 6, value: "motofa kamal");
+table.Add(key: 7, value: "pass vai");
+
+ICollection hCol = table.Keys;
+
+foreach(int h in hCol)
+{
+    Console.WriteLine(h + " " + table[h]);
+}
