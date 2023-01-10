@@ -42,3 +42,4 @@ int b = 10;
 //MethodParameterModifires.OutModifires(out a, out b); 
 //MethodParameterModifires.InModifires(in x);
 //MethodParameterModifires.ParamsModifires(3, 4, 5, 6, 7, 8);
+MethodParameterModifires.NameArgument(y:8, x:5);

@@ -36,5 +36,15 @@ namespace LanguageBasic.Basic
         {
             Console.WriteLine(x);
         }
+
+        public static void OptionalModifires(int x , float y = 2.5f)
+        {
+            Console.WriteLine( x * y);
+        }
+
+        public static void NameArgument(int x, int y)
+        {
+            Console.WriteLine( $"x:{x}  y: {y}");
+        }
     }
 }
