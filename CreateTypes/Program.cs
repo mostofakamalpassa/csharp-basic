@@ -1,4 +1,5 @@
 ﻿using CreateTypes.Inheritance;
+using CreateTypes.Interfaces;
 using CreateTypes.Objects;
 using CreateTypes.Partials;
 
@@ -20,4 +21,11 @@ Houses houses = new Houses() {  Mortgage = 5, Name="abc"  };
 
 Stocks stocks = new Stocks() { SharesOwned = 6, Name = "jamal" };
 
-Stocks.Display(stocks);
+//Stocks.Display(stocks);
+
+IEnumerators enu = new Countdown();
+
+while (enu.MoveNext())
+{
+    Console.Write(enu.Current +" , ");
+}
