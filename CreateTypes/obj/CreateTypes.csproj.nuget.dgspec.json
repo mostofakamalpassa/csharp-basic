@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BasicC#\\cc\\cshapr-basic\\LanguageBasic\\LanguageBasic.csproj": {}
+    "D:\\BasicC#\\cc\\cshapr-basic\\CreateTypes\\CreateTypes.csproj": {}
   },
   "projects": {
-    "D:\\BasicC#\\cc\\cshapr-basic\\LanguageBasic\\LanguageBasic.csproj": {
+    "D:\\BasicC#\\cc\\cshapr-basic\\CreateTypes\\CreateTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BasicC#\\cc\\cshapr-basic\\LanguageBasic\\LanguageBasic.csproj",
-        "projectName": "LanguageBasic",
-        "projectPath": "D:\\BasicC#\\cc\\cshapr-basic\\LanguageBasic\\LanguageBasic.csproj",
+        "projectUniqueName": "D:\\BasicC#\\cc\\cshapr-basic\\CreateTypes\\CreateTypes.csproj",
+        "projectName": "CreateTypes",
+        "projectPath": "D:\\BasicC#\\cc\\cshapr-basic\\CreateTypes\\CreateTypes.csproj",
         "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
-        "outputPath": "D:\\BasicC#\\cc\\cshapr-basic\\LanguageBasic\\obj\\",
+        "outputPath": "D:\\BasicC#\\cc\\cshapr-basic\\CreateTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
