@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace CreateTypes.Methods
 {
-    internal class Player
+    class Player
     {
+        int shields = 50; // Initialized first
+        int health = 100; // Initialized second
     }
 }

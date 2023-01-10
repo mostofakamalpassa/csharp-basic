@@ -1,0 +1,15 @@
+D:\BasicC#\cc\cshapr-basic\CreateTypes\bin\Debug\net7.0\CreateTypes.exe
+D:\BasicC#\cc\cshapr-basic\CreateTypes\bin\Debug\net7.0\CreateTypes.deps.json
+D:\BasicC#\cc\cshapr-basic\CreateTypes\bin\Debug\net7.0\CreateTypes.runtimeconfig.json
+D:\BasicC#\cc\cshapr-basic\CreateTypes\bin\Debug\net7.0\CreateTypes.dll
+D:\BasicC#\cc\cshapr-basic\CreateTypes\bin\Debug\net7.0\CreateTypes.pdb
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.csproj.AssemblyReference.cache
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.AssemblyInfoInputs.cache
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.AssemblyInfo.cs
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.csproj.CoreCompileInputs.cache
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.dll
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\refint\CreateTypes.dll
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.pdb
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\CreateTypes.genruntimeconfig.cache
+D:\BasicC#\cc\cshapr-basic\CreateTypes\obj\Debug\net7.0\ref\CreateTypes.dll
