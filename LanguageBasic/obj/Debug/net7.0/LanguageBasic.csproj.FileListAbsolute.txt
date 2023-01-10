@@ -1,0 +1,15 @@
+D:\c#project\BasicSharpWithBook\LanguageBasic\bin\Debug\net7.0\LanguageBasic.exe
+D:\c#project\BasicSharpWithBook\LanguageBasic\bin\Debug\net7.0\LanguageBasic.deps.json
+D:\c#project\BasicSharpWithBook\LanguageBasic\bin\Debug\net7.0\LanguageBasic.runtimeconfig.json
+D:\c#project\BasicSharpWithBook\LanguageBasic\bin\Debug\net7.0\LanguageBasic.dll
+D:\c#project\BasicSharpWithBook\LanguageBasic\bin\Debug\net7.0\LanguageBasic.pdb
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.csproj.AssemblyReference.cache
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.AssemblyInfoInputs.cache
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.AssemblyInfo.cs
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.csproj.CoreCompileInputs.cache
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.dll
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\refint\LanguageBasic.dll
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.pdb
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\LanguageBasic.genruntimeconfig.cache
+D:\c#project\BasicSharpWithBook\LanguageBasic\obj\Debug\net7.0\ref\LanguageBasic.dll
