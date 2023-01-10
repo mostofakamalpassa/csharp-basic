@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c4+MoZE3bfw1LzuzaBTAjbdHmZPrlyZMHVZWj7GqgYJ7zkpHhLY4EFHp74GxqGeJIW2J6ekXUyttLbZD2pTESQ==",
+  "dgSpecHash": "7Vf9yJikzmaFe+ijcyZi1JUd/dMaJLU9WszQ02v/vx4QQ0KAC3sJMfTVEwoeaIiMQY7cZwdvHzqtdUDsJMx7GA==",
   "success": true,
-  "projectFilePath": "D:\\BasicC#\\cc\\cshapr-basic\\LanguageBasic\\LanguageBasic.csproj",
+  "projectFilePath": "D:\\c#project\\BasicSharpWithBook\\csharp-basic\\LanguageBasic\\LanguageBasic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
