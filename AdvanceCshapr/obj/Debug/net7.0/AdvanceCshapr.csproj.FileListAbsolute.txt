@@ -1,0 +1,15 @@
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\bin\Debug\net7.0\AdvanceCshapr.exe
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\bin\Debug\net7.0\AdvanceCshapr.deps.json
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\bin\Debug\net7.0\AdvanceCshapr.runtimeconfig.json
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\bin\Debug\net7.0\AdvanceCshapr.dll
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\bin\Debug\net7.0\AdvanceCshapr.pdb
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.csproj.AssemblyReference.cache
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.GeneratedMSBuildEditorConfig.editorconfig
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.AssemblyInfoInputs.cache
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.AssemblyInfo.cs
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.csproj.CoreCompileInputs.cache
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.dll
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\refint\AdvanceCshapr.dll
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.pdb
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\AdvanceCshapr.genruntimeconfig.cache
+D:\BasicC#\cc-11-01\cshapr-basic\AdvanceCshapr\obj\Debug\net7.0\ref\AdvanceCshapr.dll

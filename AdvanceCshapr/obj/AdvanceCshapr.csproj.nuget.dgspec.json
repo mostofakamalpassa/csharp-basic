@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BasicC#\\cc-11-01\\cshapr-basic\\CreateTypes\\CreateTypes.csproj": {}
+    "D:\\BasicC#\\cc-11-01\\cshapr-basic\\AdvanceCshapr\\AdvanceCshapr.csproj": {}
   },
   "projects": {
-    "D:\\BasicC#\\cc-11-01\\cshapr-basic\\CreateTypes\\CreateTypes.csproj": {
+    "D:\\BasicC#\\cc-11-01\\cshapr-basic\\AdvanceCshapr\\AdvanceCshapr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BasicC#\\cc-11-01\\cshapr-basic\\CreateTypes\\CreateTypes.csproj",
-        "projectName": "CreateTypes",
-        "projectPath": "D:\\BasicC#\\cc-11-01\\cshapr-basic\\CreateTypes\\CreateTypes.csproj",
+        "projectUniqueName": "D:\\BasicC#\\cc-11-01\\cshapr-basic\\AdvanceCshapr\\AdvanceCshapr.csproj",
+        "projectName": "AdvanceCshapr",
+        "projectPath": "D:\\BasicC#\\cc-11-01\\cshapr-basic\\AdvanceCshapr\\AdvanceCshapr.csproj",
         "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
-        "outputPath": "D:\\BasicC#\\cc-11-01\\cshapr-basic\\CreateTypes\\obj\\",
+        "outputPath": "D:\\BasicC#\\cc-11-01\\cshapr-basic\\AdvanceCshapr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
