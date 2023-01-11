@@ -1,4 +1,5 @@
-﻿using CreateTypes.Inheritance;
+﻿using CreateTypes.Generics;
+using CreateTypes.Inheritance;
 using CreateTypes.Interfaces;
 using CreateTypes.Objects;
 using CreateTypes.Partials;
@@ -27,5 +28,12 @@ IEnumerators enu = new Countdown();
 
 while (enu.MoveNext())
 {
-    Console.Write(enu.Current +" , ");
+    //Console.Write(enu.Current +" , ");
 }
+
+StackGen<int> gen = new StackGen<int>();
+gen.Push(1);
+gen.Push(2);
+gen.Push(3);
+
+//Console.WriteLine(gen.Pop());
