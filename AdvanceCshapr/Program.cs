@@ -12,7 +12,7 @@ Transformer tran = delC.Multiply;
 var values = new int[] { 3, 4, 5, 6, 7, 8 };
 
  //delC.Transform(values, trans);
- delC.Transform(values, tran);
+ //delC.Transform(values, tran);
 
 
 //foreach (var v in values) Console.WriteLine(v);
@@ -20,6 +20,15 @@ var values = new int[] { 3, 4, 5, 6, 7, 8 };
 
 Transformer del = delC.sum;
 del += delC.Multiply;
-
+Util util = new Util();
 Console.WriteLine(del.Invoke(5));
+ProgressReporters p = util.WriteProgressToConsole;
+p += util.WriteProgressToFile;
+//Util.HardWork(p);
 
+//util.Transformer(values, delC.sum);
+
+//foreach(var v in values) Console.Write(v + " , ");
+
+Util.TransformAll(values, new Squarer());
+foreach (var v in values) Console.Write(v + " , ");
